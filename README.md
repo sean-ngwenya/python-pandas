@@ -23,46 +23,26 @@ By completing this repository, I demonstrate the ability to:
 
 ## Repository Structure
 
-
 python-pandas/
 │
-
 ├── README.md
-
 ├── LICENSE
-
 ├── requirements.txt
-
 │
-
 ├── data/
-
 │ ├── raw/
-
 │ │ └── people_data.csv
-
 │ └── processed/
-
 │
-
 ├── src/
-
 │ ├── init.py
-
 │ ├── create_dataframes.py
-
 │ ├── basic_operations.py
-
 │ ├── data_manipulation.py
-
 │ ├── groupby_aggregation.py
-
 │ ├── missing_data.py
-
 │ ├── file_io.py
-
 │
-
 └── main.py
 
 ## Key Topics Covered
@@ -102,6 +82,7 @@ python-pandas/
 ### 1. Clone the Repository
 
 git clone https://github.com/sean-ngwenya/python-pandas.git
+
 cd python-pandas
 
 2. Create a Virtual Environment (Recommended)
