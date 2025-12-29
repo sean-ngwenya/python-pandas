@@ -23,6 +23,7 @@ By completing this repository, I demonstrate the ability to:
 
 ## Repository Structure
 
+
 python-pandas/
 │
 ├── README.md
@@ -91,7 +92,7 @@ python -m venv venv
 source venv/bin/activate   # Linux / macOS
 venv\Scripts\activate 
      # Windows
-     
+
 3. Install Dependencies
 
 pip install -r requirements.txt
